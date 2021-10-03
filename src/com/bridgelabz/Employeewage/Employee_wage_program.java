@@ -12,7 +12,7 @@ public class Employee_wage_program {
 	}
 
 	public void welcome() {
-		System.out.println("Welcome to Employee Wage Computation Program on Master Branch");
+	System.out.println("Welcome to Employee Wage Computation Program on Master Branch");
 	}
 
 	public void emopDailyWage() {
