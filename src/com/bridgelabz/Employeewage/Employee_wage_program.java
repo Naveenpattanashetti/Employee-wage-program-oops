@@ -10,14 +10,14 @@ public class Employee_wage_program {
 	public static void main(String[] args) {
 		Employee_wage_program employeewage = new Employee_wage_program();
 		employeewage.welcome();
-		employeewage.emopDailyWage();
+		employeewage.totalEmpWage();
 	}
 
 	public void welcome() {
 		System.out.println("Welcome to Employee Wage Computation Program on Master Branch");
 	}
 
-	public void emopDailyWage() {
+	public void totalEmpWage() {
 		int empHrs = 0;
 		int totalEmpHrs = 0;
 		int totalWorkingDays = 0;
